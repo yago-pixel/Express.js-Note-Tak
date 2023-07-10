@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "* GIVEN a note-taking application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Yago Lira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yago-pixel/Express.js-Note-Tak.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/yago-pixel/Express.js-Note-Tak.git"
+  },
+  "homepage": "https://github.com/yago-pixel/Express.js-Note-Tak.git#readme"
+}
